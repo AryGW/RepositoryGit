@@ -1,0 +1,15 @@
+git init--para iniciar Git
+*******************************
+git status--para ver el estado del reposotorio, te permite ver los cambios realizados y los ficheros que añdiste o que te faltan por añadir al repositorio.
+********************************
+git add--para añadir un nuevo fichero a git.
+********************************
+git commit -m "something"--Permite añadirle un comentario al commit.
+********************************
+git add '*.txt'--para añadir al stage todos los ficheros de un mismo tipo.
+********************************
+git log -- Permite ver todos los commit realizados.
+********************************
+git remote add origin https://github.com/AryGW/RepositoryGit --permite
+********************************
+git push -u origin master
